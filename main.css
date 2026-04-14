@@ -15,19 +15,3 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-<<<<<<< HEAD
-
-th, td {
- padding: 8px;
- text-align: left;
- border-bottom: 1px solid #ddd;
- font-family: Arial
-}
-tr:nth-child(odd) {background-color: #f2f2f2;}
-=======
-div {
-background-color: darkcyan;
-text-align: right;
-}
->>>>>>> 299c8f4bf960e2f401b1648c98977785e75ce40b
-
