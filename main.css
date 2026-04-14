@@ -15,6 +15,13 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+<<<<<<< HEAD
+=======
+div {
+background-color: blue;
+text-align: right;
+}
+>>>>>>> add-header
 
 
 th, td { 
